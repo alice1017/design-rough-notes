@@ -1,0 +1,11 @@
+960-grid-system sketch template
+
+Get from:
+    https://github.com/nathansmith/960-Grid-System/
+
+License:
+    GPL license:
+    http://www.gnu.org/licenses/gpl.html
+    
+    MIT license:
+    http://www.opensource.org/licenses/mit-license.php
